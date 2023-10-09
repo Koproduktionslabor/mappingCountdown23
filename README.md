@@ -1,4 +1,4 @@
-# mappinngCountdown 2023 in collaboration with storyLab kiU
+# mappingCountdown 2023 in collaboration with storyLab kiU
 
 ![Alt text](https://github.com/Koproduktionslabor/mappinngCountdown23/blob/main/New%20Project.png?raw=true)
 
