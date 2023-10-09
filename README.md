@@ -2,7 +2,7 @@
 
 ![Alt text](https://github.com/Koproduktionslabor/mappinngCountdown23/blob/main/New%20Project.png?raw=true)
 
-[fullvideo](https://www.youtube.com/watch?v=KHVezPS6yls&ab_channel=storyLabkiUderFachhochschuleDortmund)
+[fullvideo here](https://www.youtube.com/watch?v=KHVezPS6yls&ab_channel=storyLabkiUderFachhochschuleDortmund)
 
 CodeBase: Florencia Alonso [@flordefuego](https://github.com/flordefuego)
 
